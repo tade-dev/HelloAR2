@@ -72,6 +72,7 @@ class Coordinator: NSObject {
             view.scene.addAnchor(anchor)
             
             
+            
             // create an anchor for each place tapped
 //            let anchorEntity = AnchorEntity(raycastResult: result)
 //            
